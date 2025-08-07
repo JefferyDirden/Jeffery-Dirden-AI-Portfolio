@@ -1,2 +1,2 @@
 # Jeffery-Dirden-AI-Portfolio
-Jeffery Dirden's AI Portfolio 
+Some of the work that I've done while being enrolled in the AI Program at HCC
